@@ -3,6 +3,19 @@ body {
 }
 
 
+.publication-links {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+
+.hero .hero-body {
+  padding-bottom: 1rem;
+}
+
+.section {
+  padding-top: 1rem;
+}
+
 .footer .icon-link {
     font-size: 25px;
     color: #000;
